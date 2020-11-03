@@ -1,5 +1,17 @@
 package com.yeqifu.principle.interfacesegregation;
 
+/**
+ * 设计模式需要遵循的7大原则
+ * 1.单一职责原则
+ * 2.接口隔离原则
+ * 3.依赖倒转原则
+ * 4.迪米特法则
+ * 5.开闭原则
+ * 6.合并复用原则
+ * 7.里氏替换原则
+ * @author yeqifu
+ *
+ */
 public class InterfaceSegregationTwo {
 	public static void main(String[] args) {
 		/**
