@@ -15,7 +15,7 @@ public class SingletonTestOne {
 }
 
 class Singleton{
-	//私有化构造器
+	//私有化构造器 
 	private Singleton(){
 	}
 	//声明一个静态常量 
