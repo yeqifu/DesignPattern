@@ -21,7 +21,7 @@ public class OrderPizza {
 			pizza.cut();
 			pizza.box();
 		}else {
-			System.out.println("您的输入有误，没有此类pizza");
+			System.out.println("您的输入有误，没有此pizza");
 		}
 	}
 	public String getPizzaType(){
