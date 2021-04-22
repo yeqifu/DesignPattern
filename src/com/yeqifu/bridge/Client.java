@@ -13,5 +13,13 @@ public class Client {
 		phoneTwo.open();
 		phoneTwo.call();
 		phoneTwo.close();
+		
+		System.out.println("========================================");
+		
+		Phone phoneThree = new FullScreenPhone(new XiaoMi());
+		phoneThree.open();
+		phoneThree.call();
+		phoneThree.close();
+		
 	}
 }
